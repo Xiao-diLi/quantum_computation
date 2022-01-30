@@ -1,5 +1,5 @@
 # quantum_computation
-This is my notes of quantum computation and quantum information.
+This is my notes of quantum computation and quantum information (not complete).
 
 References:
 1. Quantum Computation and Quantum information by Michael A.Nielsen & Isaac L. Chuang,
