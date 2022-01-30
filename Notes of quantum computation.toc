@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}Classical Computation}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Classical computation models}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Turing machine}{3}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Circuit}{3}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Computational complexity }{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}The physics of classical computation}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Quantum computation}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Single qubit and single qubit operations}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Single qubit}{4}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Single qubit operation}{5}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Controlled operations}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Universal quantum gates}{5}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Exact realization}{6}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Approximate realization}{6}{subsubsection.2.3.2}%
+\contentsline {section}{\numberline {3}Quantum algorithms}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Classical computation on a quantum computer}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Quantum parallelism and Deutsch's algorithm}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}The quantum Fourier transform and its application}{8}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}The quantum Fourier transform}{8}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Phase estimation}{9}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Quantum search algorithms}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}The quantum search algorithm}{10}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Quantum search as quantum simulation}{10}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Simulation of quantum systems}{10}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Simulation}{10}{subsubsection.3.5.1}%
+\contentsline {section}{\numberline {4}Open quantum systems}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}States}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Quantum measurements}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Quantum operation}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Classical noise and Markov processes}{12}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Quantum operations}{12}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Environments and quantum operations}{13}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Operator-sum representation}{13}{subsubsection.4.5.2}%
+\contentsline {section}{\numberline {5}Quantum error-correction}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Quantum error-correction code}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Theory of quantum error-correction}{15}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Quantum computer}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Conditions for quantum computer}{15}{subsection.6.1}%
+\contentsline {section}{\numberline {A}Complex roots of unity}{16}{appendix.A}%
+\contentsline {section}{\numberline {B}Discrete Fourier Transform}{16}{appendix.B}%
